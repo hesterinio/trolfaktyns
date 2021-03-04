@@ -8,15 +8,9 @@ body{background-color: red;}
 </style>
 <body>
 <div id="top">
-    <header
-            id="NAGLOWEK">Galeria Trolfec</header>
-    <nav 
-         id="MENU">trolfac GALERIA!!!!!!!!!</nav>
-    <aside 
-           id="INFORMACJE">trololo informacje. itp. itd </aside>
-                         <article
-                                 id="TRESC">lody o smaku trollface</article>
-                          <footer id="STOPKA">trolololo</footer>
+    <center><header
+            id="NAGLOWEK">Galeria Trolfec</header></center>
+    
     <img src = https://static.wikia.nocookie.net/memes/images/9/9a/Troll-face.jpg/revision/latest/scale-to-width-down/340?cb=20150924183516&path-prefix=pl>
     <img src = https://media.discordapp.net/attachments/803896395701944320/816267130323599370/trollfacepl.png?width=513&height=418>
     <img src = https://media.discordapp.net/attachments/788883393201963048/817001110165258260/troll-face-if-he-was-real-life-71022036.png>
