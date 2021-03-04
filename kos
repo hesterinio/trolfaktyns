@@ -4,12 +4,12 @@
 <title>strona koksuw</title>
 </head>
 <style>
-body{background-color: red;}
+body{background-color: white;}
 </style>
 <body>
 <div id="top">
-    <center><header
-            id="NAGLOWEK">Galeria Trolfec</header></center>
+   <size=50><center><header
+                            id="NAGLOWEK">Galeria Trolfec</header></center></size>
     
     <img src = https://static.wikia.nocookie.net/memes/images/9/9a/Troll-face.jpg/revision/latest/scale-to-width-down/340?cb=20150924183516&path-prefix=pl>
     <img src = https://media.discordapp.net/attachments/803896395701944320/816267130323599370/trollfacepl.png?width=513&height=418>
